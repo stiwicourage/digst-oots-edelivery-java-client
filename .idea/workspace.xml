@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8effaf52-6211-4803-845c-b900f7e33ffc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/architecture.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/contributing.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/installation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/troubleshooting.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/usage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
+  <component name="GitHubPullRequestState"><![CDATA[{
+  "prStates": [
+    {
+      "id": {
+        "id": "PR_kwDOOFGrXs6OyGcd",
+        "number": 3
+      },
+      "lastSeen": 1742064483350
+    }
+  ]
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://stiwicourage@github.com/stiwicourage/digst-oots-edelivery-java-client.git",
+    "accountId": "4ff8be5d-bf99-46ae-82aa-85a89c127f72"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2uMQWIO5cMAIdEoGYwhGd65ppxS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.StandardSpecification.executor": "Run",
+    "JUnit.StandardSpecification.one plus one should equal two (1).executor": "Run",
+    "JUnit.StandardSpecification.one plus one should equal two.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "#3 on develop",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="dk.digst.oots.edelivery.client" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StandardSpecification.one plus one should equal two (1)">
+    <configuration name="StandardSpecification" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="digst-oots-edelivery-java-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dk.digst.oots.edelivery.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dk.digst.oots.edelivery.client" />
+      <option name="MAIN_CLASS_NAME" value="dk.digst.oots.edelivery.client.StandardSpecification" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -Djava.rmi.server.hostname=127.0.0.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StandardSpecification.one plus one should equal two (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="digst-oots-edelivery-java-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dk.digst.oots.edelivery.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dk.digst.oots.edelivery.client" />
+      <option name="MAIN_CLASS_NAME" value="dk.digst.oots.edelivery.client.StandardSpecification" />
+      <option name="METHOD_NAME" value="one plus one should equal two" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea -Djava.rmi.server.hostname=127.0.0.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StandardSpecification.one plus one should equal two" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="digst-oots-edelivery-java-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dk.digst.oots.edelivery.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dk.digst.oots.edelivery.client" />
+      <option name="MAIN_CLASS_NAME" value="dk.digst.oots.edelivery.client.StandardSpecification" />
+      <option name="METHOD_NAME" value="one plus one should equal two" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="digst-oots-edelivery-java-client" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -Djava.rmi.server.hostname=127.0.0.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.StandardSpecification.one plus one should equal two (1)" />
+      <item itemvalue="JUnit.StandardSpecification" />
+      <item itemvalue="JUnit.StandardSpecification.one plus one should equal two" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StandardSpecification.one plus one should equal two (1)" />
+        <item itemvalue="JUnit.StandardSpecification.one plus one should equal two" />
+        <item itemvalue="JUnit.StandardSpecification" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8effaf52-6211-4803-845c-b900f7e33ffc" name="Changes" comment="" />
+      <created>1742055995483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742055995483</updated>
+      <workItem from="1742055996484" duration="3396000" />
+      <workItem from="1742064290840" duration="3016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
