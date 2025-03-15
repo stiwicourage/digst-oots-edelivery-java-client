@@ -1,4 +1,5 @@
 # OOTS
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/64763)
 
 Velkommen til dokumentationen for **OOTS**.
 
